@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.prashantgiri360.com.np/THM%20Investigating%20Windows%20Walkthrough/</loc>
+    
+    <lastmod>2025-05-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.prashantgiri360.com.np/templates/CTF.html</loc>
     
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-05-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://blog.prashantgiri360.com.np/Setting%20up%20SIEM%20Lab%20Using%20Wazuh/</loc>
+    <loc>https://blog.prashantgiri360.com.np/HTB%20TrainingDay%20Walkthrough/</loc>
     
     <lastmod>2025-04-04</lastmod>
     
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://blog.prashantgiri360.com.np/TrainingDay%20Walkthrough/</loc>
+    <loc>https://blog.prashantgiri360.com.np/Setting%20up%20SIEM%20Lab%20Using%20Wazuh/</loc>
     
     <lastmod>2025-04-04</lastmod>
     
@@ -49,7 +58,7 @@
 
   <url>
     <loc>https://blog.prashantgiri360.com.np/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,42 +66,49 @@
   
   <url>
     <loc>https://blog.prashantgiri360.com.np/tags/htb/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.prashantgiri360.com.np/tags/walkthrough/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.prashantgiri360.com.np/tags/ctf/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.prashantgiri360.com.np/tags/Malware-Analysis/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.prashantgiri360.com.np/tags/SIEM/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.prashantgiri360.com.np/tags/tutorial/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.prashantgiri360.com.np/tags/forensics/</loc>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -101,14 +117,21 @@
   
   <url>
     <loc>https://blog.prashantgiri360.com.np/categories/Malware-Analysis/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.prashantgiri360.com.np/categories/SOC/</loc>
-    <lastmod>2025-04-09</lastmod>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.prashantgiri360.com.np/categories/Forensics/</loc>
+    <lastmod>2025-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

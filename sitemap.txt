@@ -1,9 +1,9 @@
+https://blog.prashantgiri360.com.np/about.html
 https://blog.prashantgiri360.com.np/THM%20Investigating%20Windows%20Walkthrough/
 https://blog.prashantgiri360.com.np/templates/CTF.html
-https://blog.prashantgiri360.com.np/HTB%20Sherlock%20Loggy%20Walkthrough/
+https://blog.prashantgiri360.com.np/HTB%20Loggy%20Walkthrough/
 https://blog.prashantgiri360.com.np/HTB%20TrainingDay%20Walkthrough/
 https://blog.prashantgiri360.com.np/Setting%20up%20SIEM%20Lab%20Using%20Wazuh/
-https://blog.prashantgiri360.com.np/about.html
 https://blog.prashantgiri360.com.np/
 https://blog.prashantgiri360.com.np/tags/htb/
 https://blog.prashantgiri360.com.np/tags/walkthrough/

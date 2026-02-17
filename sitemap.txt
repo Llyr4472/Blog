@@ -13,8 +13,10 @@ https://blog.prashantgiri360.com.np/tags/htb/
 https://blog.prashantgiri360.com.np/tags/walkthrough/
 https://blog.prashantgiri360.com.np/tags/ctf/
 https://blog.prashantgiri360.com.np/tags/Malware-Analysis/
-https://blog.prashantgiri360.com.np/tags/crypto/
 https://blog.prashantgiri360.com.np/tags/writeup/
+https://blog.prashantgiri360.com.np/tags/easy/
+https://blog.prashantgiri360.com.np/tags/linux/
+https://blog.prashantgiri360.com.np/tags/crypto/
 https://blog.prashantgiri360.com.np/tags/SIEM/
 https://blog.prashantgiri360.com.np/tags/tutorial/
 https://blog.prashantgiri360.com.np/tags/thm/

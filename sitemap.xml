@@ -129,14 +129,28 @@
   </url>
   
   <url>
-    <loc>https://blog.prashantgiri360.com.np/tags/crypto/</loc>
+    <loc>https://blog.prashantgiri360.com.np/tags/writeup/</loc>
     <lastmod>2026-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.prashantgiri360.com.np/tags/writeup/</loc>
+    <loc>https://blog.prashantgiri360.com.np/tags/easy/</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.prashantgiri360.com.np/tags/linux/</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.prashantgiri360.com.np/tags/crypto/</loc>
     <lastmod>2026-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
